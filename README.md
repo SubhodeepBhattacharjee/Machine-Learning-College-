@@ -1,1 +1,1 @@
-# Clinical-Trial-Analysis
+# Repository for College Assignments on Machine Learning
